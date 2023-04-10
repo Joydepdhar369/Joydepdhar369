@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joydepdhar369&label=Profile%20views&color=0e75b6&style=flat" alt="joydepdhar369" /> </p>
 
-- 🔭 I’m currently working on **C#**
+- 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **Machine Learning**
 
